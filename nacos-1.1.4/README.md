@@ -1,3 +1,13 @@
+启动：
+console工程
+com.alibaba.nacos.Nacos为启动类
+
+添加运行时参数：-Dnacos.standalone=true -Dnacos.home=/Users/ludongbin/workspace/nacos/nacos-1.1.4/distribution
+
+
+
+
+
 
 <img src="doc/Nacos_Logo.png" width="50%" height="50%" />
 
